@@ -111,3 +111,7 @@ and shadows. Live lights, wind and particles run on top of the bake every frame;
 | `tools/` | `shoot.mjs` screenshot tool (needs Node, Playwright and Edge). |
 | `CLAUDE.md` | Instructions for a Claude session working in this folder. |
 | `screenshots/` | Screenshots used in this README. |
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
